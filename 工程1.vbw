@@ -1,0 +1,6 @@
+FrmMain = 127, 37, 1071, 690, , 87, 153, 972, 665, C
+CalGPSTime = 65, 70, 960, 566, C
+DataExplain = 319, 68, 1189, 735, C
+CalSatellite = 202, 41, 1030, 711, C
+MatrixCal = 347, 158, 1149, 702, C
+Math = 156, 156, 1143, 676, C
